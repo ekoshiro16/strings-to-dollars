@@ -8,6 +8,8 @@ For example:
 35235235 would become 35,235,235
 
 Write an algorithm that accepts an integer argument and converts the integer into a string output that utilizes commas (that is, if the integer needs it. The number 10, for example, does not need any commas). 
+
+NOTE: You may not use the .toLocaleString method 
 */
 
 // Write your code below:
